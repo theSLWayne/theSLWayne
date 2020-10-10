@@ -12,6 +12,6 @@ I tell ghost stories.
 - 👯 Looking to collaborate on: `Django` and `Machine Learning` Projects
 
 [![twitter](https://img.shields.io/badge/-@theSLWayne-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/theSLWayne)  
-[![linkedin](https://img.shields.io/badge/-@Hiran Hasanka-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/hiran-hasanka/)
+[![linkedin](https://img.shields.io/badge/-@Hiran_Hasanka-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/hiran-hasanka/)
 
 **Keep Scrolling Down!!**
